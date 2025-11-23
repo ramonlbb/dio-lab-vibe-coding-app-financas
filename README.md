@@ -24,25 +24,62 @@ Principais conceitos utilizados:
 ## 📄 Prompt Final (PRD)
 
 ```txt
-# Contexto
-Quero criar um aplicativo de Organização de Finanças Pessoais que funcione por meio de conversas com o usuário.  
-A ideia é facilitar o controle financeiro de forma simples e natural, sem formulários manuais ou planilhas complexas.
+Com base no meu PRD siga para a construção e criação completa do meu Aplicativo de Finanças - DIO.
 
-# Problema
-Muitas pessoas desistem de controlar seus gastos porque os apps atuais exigem muita entrada manual e pouca personalização.  
-Quero resolver isso com uma experiência de conversa e recomendações automáticas de economia.
+# Product Requirements Document (PRD)
 
-# Público-Alvo
-Pessoas que querem começar a organizar suas finanças de forma prática e sem complicação, principalmente iniciantes.
+## Contexto
+O aplicativo de Organização de Finanças Pessoais será baseado em interações por conversa.  
+O objetivo é simplificar o controle financeiro, eliminando a necessidade de formulários complexos ou planilhas manuais.  
+A experiência será natural, intuitiva e personalizada.
 
-# Funcionalidades-Chave
-1. Registrar gastos via chat em linguagem natural.  
-2. Classificar automaticamente as transações.  
-3. Definir e acompanhar metas financeiras.  
-4. Receber dicas de economia do “Agente Financeiro”.  
-5. Visualizar relatórios simples e personalizados.  
-6. Assistente de Planejamento Mensal para ajudar o usuário a organizar objetivos do mês.
+## Problema
+Usuários desistem de controlar seus gastos porque os aplicativos atuais exigem muita entrada manual e oferecem pouca personalização.  
+A solução proposta busca reduzir a fricção, oferecendo uma interface conversacional e recomendações automáticas de economia.
 
-# Entregável da IA
-Gerar um plano de MVP com as principais telas, recursos necessários e um esboço de validação inicial.  
-Usar tom educativo e linguagem acessível, em português.
+## Público-Alvo
+Pessoas que desejam iniciar a organização de suas finanças de forma prática e sem complicação.  
+Foco em iniciantes que ainda não possuem hábitos consolidados de controle financeiro.
+
+## Funcionalidades-Chave
+1. Registro de gastos via chat em linguagem natural.  
+2. Classificação automática das transações.  
+3. Definição e acompanhamento de metas financeiras.  
+4. Recomendações de economia fornecidas pelo “Agente Financeiro”.  
+5. Relatórios simples e personalizados.  
+6. Funcionalidade sugerida: **Assistente de Planejamento Mensal**  
+   - O usuário pode conversar sobre seus objetivos do mês (ex.: poupar para uma viagem).  
+   - O app gera um plano de gastos sugerido e acompanha o progresso.
+
+## Design Universal e Acessibilidade
+- Interface com contraste adequado e suporte a leitores de tela.  
+- Navegação por voz e comandos simplificados.  
+- Textos claros e linguagem acessível.  
+- Inclusão de feedback visual e auditivo para diferentes perfis de usuários.  
+- Flexibilidade para personalização da experiência (tamanho de fonte, modo escuro, etc.).
+
+## Entregável da IA: Plano de MVP
+
+### Principais Telas
+- Tela de Conversa: interação principal para registro de gastos e dicas.  
+- Tela de Metas: definição e acompanhamento de objetivos financeiros.  
+- Tela de Relatórios: visão simples e personalizada dos gastos e economias.  
+- Tela de Configurações: opções de acessibilidade e personalização.
+
+### Recursos Necessários
+- Processamento de linguagem natural para interpretar mensagens do usuário.  
+- Motor de classificação automática de transações.  
+- Módulo de geração de relatórios e gráficos simplificados.  
+- Sistema de recomendações inteligentes (Agente Financeiro).  
+- Integração com recursos de acessibilidade (voz, contraste, leitores de tela).
+
+### Esboço de Validação Inicial
+- Testes com grupo piloto de usuários iniciantes.  
+- Avaliação da clareza das interações por chat.  
+- Medição da redução de esforço em comparação a apps tradicionais.  
+- Feedback sobre acessibilidade e usabilidade.  
+- Iteração rápida com base nos resultados para ajustes no MVP.
+
+## Conclusão
+O aplicativo busca democratizar o controle financeiro, tornando-o acessível, simples e inclusivo.  
+A proposta combina tecnologia conversacional com design universal, criando uma experiência prática e motivadora para iniciantes.

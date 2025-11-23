@@ -66,14 +66,14 @@ Foco em iniciantes que ainda não possuem hábitos consolidados de controle fina
 - Tela de Relatórios: visão simples e personalizada dos gastos e economias.  
 - Tela de Configurações: opções de acessibilidade e personalização.
 
-### Recursos Necessários
+## Recursos Necessários
 - Processamento de linguagem natural para interpretar mensagens do usuário.  
 - Motor de classificação automática de transações.  
 - Módulo de geração de relatórios e gráficos simplificados.  
 - Sistema de recomendações inteligentes (Agente Financeiro).  
 - Integração com recursos de acessibilidade (voz, contraste, leitores de tela).
 
-### Esboço de Validação Inicial
+## Esboço de Validação Inicial
 - Testes com grupo piloto de usuários iniciantes.  
 - Avaliação da clareza das interações por chat.  
 - Medição da redução de esforço em comparação a apps tradicionais.  

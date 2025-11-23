@@ -4,7 +4,7 @@ Um aplicativo que ajuda iniciantes a organizar suas finanças de forma simples e
 Construído como parte do desafio da **DIO**, aplicando os conceitos de **Vibe Coding**, **MVP** e **Design Universal**.
 
 ## 🚀 Acesse o App
-[Clique aqui para usar o app]([https://link-do-seu-app.com](https://convo-coin.lovable.app))
+[Clique aqui para usar o app](https://convo-coin.lovable.app/auth)
 
 ---
 
